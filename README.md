@@ -8,6 +8,4 @@ Coursework for CS550 : Massive Data Mining.
 3. Modularity, Spectral Clustering, Clique-based communities
 4. Clustering Data Streams
 
-### Project
 
-1. [MovieLens Recommender System](https://github.com/keya-desai/MovieLens-Recommender-System)
